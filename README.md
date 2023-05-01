@@ -1,7 +1,7 @@
 # EverStopped-Cheat
 Cheat EverStopped
 
-Cheat Made By Lokey in Python
+Cheat Made By Lokey in Python\n
 Game Made By Maxestla
 
 If the cheat does not work :
