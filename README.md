@@ -1,0 +1,2 @@
+# EverStopped-Cheat
+Cheat EverStopped
