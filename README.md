@@ -7,3 +7,5 @@ Game Made By Maxestla
 If the cheat does not work :
   - Waits to be in play and shoots to initialize the addresses
   - Change Base Address
+  
+**Important: This cheat was created on a crack version !!**
